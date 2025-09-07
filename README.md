@@ -8,7 +8,7 @@
 
 Here is a demonstration of the core authentication flow using Postman, from user login to accessing a protected route.
 
-![Postman Demo GIF](https://raw.githubusercontent.com/![projmanageTesting](https://github.com/user-attachments/assets/22be3ccb-2c55-43d7-8a42-1a8cf135e88f)
+![Postman Demo GIF](https://github.com/user-attachments/assets/22be3ccb-2c55-43d7-8a42-1a8cf135e88f)
 rohanwagh009/project-management-api/main/demo.gif)
 
 ---
